@@ -21,7 +21,7 @@ def calcular(expressao):
         return "Erro: " + str(e)
 
 print("Bem-vindo à Calculadora Científica!")
-print("Operações suportadas: ^, yx, √, ex, sin, cos, tan, (-), (), π")
+print("Operações suportadas: +, -, x, /, ^, yx, √, ex, sin, cos, tan, (-), (), π")
 print("Digite 'mode' para alternar entre graus e radianos.")
 print("Digite 'exit' para sair.")
 
